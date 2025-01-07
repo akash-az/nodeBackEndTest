@@ -34,3 +34,8 @@
 
   // example : app.listen() -> a method that takes 2 parametres a variable "port number" and call back function .
 
+
+
+                    // Production
+// DigitalOcean/hroku/RailwaySeenode/Render/Cyclic.sh
+
